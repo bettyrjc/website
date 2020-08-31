@@ -9,6 +9,7 @@ module.exports = {
       resolve: `gatsby-plugin-sass`,
       options: {
         postCssPlugins: [
+          require(`autoprefixer`),
           require(`tailwindcss`),
           require(`./tailwind.config.js`), // Optional: Load custom Tailwind CSS configuration
         ],

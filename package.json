@@ -2,12 +2,12 @@
   "name": "bettyjimenez.com",
   "private": true,
   "version": "0.1.0",
-  "author": "Daniel Esteves <danestves@gmail.com>",
+  "author": "Betty Jimenez <bettyjimenez3010@gmail.com>",
   "contributors": [
     {
-      "name": "Betty Jimenez",
-      "email": "bettyjimenez3010@gmail.com",
-      "url": "https://github.com/bettyrjc"
+      "name": "Daniel Esteves",
+      "email": "danestves@gmail.com",
+      "url": "https://danestves.com"
     }
   ],
   "dependencies": {
